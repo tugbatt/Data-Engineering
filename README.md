@@ -1,4 +1,4 @@
-# Data_Engineering with Python & Paul Crickard 
+# Data Engineering with Python & Paul Crickard 
 
 "Data Engineering with Python", Paul Crickard tarafından yazılan ve veri mühendisliği süreçlerini Python kullanarak anlatan kapsamlı bir kaynaktır. Kitap, büyük veri kümeleriyle çalışmak için gerekli teknoloji ve çerçevelere giriş yapmakta ve veri mühendisliği alanında karşılaşılan zorluklara pratik çözümler sunmaktadır.
 
