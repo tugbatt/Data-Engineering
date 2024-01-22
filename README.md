@@ -52,6 +52,6 @@
 ### Metin Konvansiyonları
 
 - Kodlar ve komut satırları belirgin şekilde belirtilmiştir.
-- 
+  
 ### Kitapa Ulaşabileceğiniz Link
 -[Data_Engineering with Python_Paul Crickard.pdf](https://github.com/tugbatt/Data-Engineering-/files/14010688/Data_Engineering.with.Python_Paul.Crickard.pdf)
